@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/s5-scrab-348/!svn/ver/69/src
+END
+dico.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/s5-scrab-348/!svn/ver/60/src/dico.c
+END
+scrabble.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/s5-scrab-348/!svn/ver/65/src/scrabble.h
+END
+placer_mot.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/s5-scrab-348/!svn/ver/60/src/placer_mot.c
+END
+recherche_mot_dico.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/s5-scrab-348/!svn/ver/60/src/recherche_mot_dico.c
+END
+plateau.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/s5-scrab-348/!svn/ver/60/src/plateau.c
+END
+tirage.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/s5-scrab-348/!svn/ver/69/src/tirage.c
+END
+points.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/s5-scrab-348/!svn/ver/65/src/points.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/s5-scrab-348/!svn/ver/43/src/Makefile
+END
+scrabble.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/s5-scrab-348/!svn/ver/65/src/scrabble.c
+END
